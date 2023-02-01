@@ -190,13 +190,13 @@ To avoid incurring charges to your Google Cloud Platform account for the resourc
 
 The easiest way to eliminate billing is to delete the project that you created for the tutorial.
 
-To delete the project:
-
-Negative
-: *Caution: Deleting a project has the following effects:*
+*Caution: Deleting a project has the following effects:*
 *Everything in the project is deleted. If you used an existing project for this tutorial, when you delete it, you also delete any other work you've done in the project.*
 *Custom project IDs are lost. When you created this project, you might have created a custom project ID that you want to use in the future. To preserve the URLs that use the project ID, such as an appspot.com URL, delete selected resources inside the project instead of deleting the whole project.*
 *If you plan to explore multiple tutorials and quickstarts, reusing projects can help you avoid exceeding project quota limits.*
+
+
+To delete the project:
 
 1. In the GCP Console, go to the [Projects page](https://console.cloud.google.com/cloud-resource-manager).
 2. In the project list, select the project you want to delete and click **Delete**.

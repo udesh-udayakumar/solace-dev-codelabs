@@ -14,6 +14,7 @@ feedback link: https://github.com/SolaceDev/solace-dev-codelabs/tree/master/mark
 Duration: 0:01:00
 
 ![image_caption](img/fhir.png)
+
 This codelab demonstrates a data ingestion pattern to ingest FHIR R4 formatted healthcare data (Regular Resources) into BigQuery using Cloud Healthcare FHIR APIs. Realistic healthcare test data has been generated and made available in the Google Cloud Storage bucket (gs://testing-demo-data-udesh/) for you.
 
 #### In this code lab you will learn:

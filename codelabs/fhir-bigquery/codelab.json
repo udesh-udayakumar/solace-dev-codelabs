@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2023-02-01T11:46:13-07:00",
+  "id": "fhir-bigquery",
+  "duration": 26,
+  "title": "Ingest FHIR (Fast Healthcare Interoperability Resources) to BigQuery",
+  "summary": "Ingest FHIR Store to BigQuery dataset",
+  "source": "fhir-bigquery.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "bigquery",
+    "codelabs"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://github.com/SolaceDev/solace-dev-codelabs/tree/master/markdown/fhir-bigquery",
+  "url": "fhir-bigquery"
+}

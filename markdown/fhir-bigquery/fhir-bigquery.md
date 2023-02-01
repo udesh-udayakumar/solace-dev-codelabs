@@ -196,7 +196,7 @@ The easiest way to eliminate billing is to delete the project that you created f
 *If you plan to explore multiple tutorials and quickstarts, reusing projects can help you avoid exceeding project quota limits.*
 
 
-To delete the project:
+#### To delete the project:
 
 1. In the GCP Console, go to the [Projects page](https://console.cloud.google.com/cloud-resource-manager).
 2. In the project list, select the project you want to delete and click **Delete**.
